@@ -18,7 +18,16 @@
     "loading"
   ],
   "author": "yutucc",
-  "license": "ISC",
+  "license": "MIT",
+  "publisher": "yutucc",
+  "homepage": "https://github.com/yutucc/pinia-loading",
+  "bugs": {
+    "url": "https://github.com/yutucc/pinia-loading/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yutucc/pinia-loading"
+  },
   "dependencies": {
     "vue-demi": "^0.13.11"
   },
