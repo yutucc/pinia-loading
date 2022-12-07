@@ -2,11 +2,22 @@
   "name": "pinia-loading",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
+    "build": "tsup",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": [
+    "pinia",
+    "plugin",
+    "loading"
+  ],
+  "author": "yutucc",
   "license": "ISC",
   "dependencies": {
     "vue-demi": "^0.13.11"
