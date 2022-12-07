@@ -23,6 +23,7 @@
   "devDependencies": {
     "pinia": "^2.0.27",
     "tsup": "^6.5.0",
+    "typescript": "^4.9.3",
     "vue": "^3.0.0"
   }
 }
