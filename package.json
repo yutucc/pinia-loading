@@ -2,7 +2,7 @@
   "name": "pinia-loading",
   "version": "1.0.1",
   "description": "pinia loading plugin",
-  "main": "dist/index.js",
+  "main": "dist/index.mjs",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "files": [
@@ -33,7 +33,8 @@
   },
   "peerDependencies": {
     "@vue/composition-api": "^1.0.0-rc.1",
-    "vue": "^2.0.0 || >=3.0.0"
+    "vue": "^2.0.0 || >=3.0.0",
+    "pinia": ">=2.0.27"
   },
   "peerDependenciesMeta": {
     "@vue/composition-api": {
