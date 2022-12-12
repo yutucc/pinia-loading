@@ -62,3 +62,5 @@ const $loadingStore = use$loadingStore();
 ```
 
 ## 🚗 Demos
+- [with-vue3-pinia](./examples/with-vue3-pinia/)
+  - `pinia-loading` 在 vue3 + pinia 上的用法
