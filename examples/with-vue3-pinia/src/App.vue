@@ -8,7 +8,6 @@
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import use$loadingStore from 'pinia-loading';
-// import use$loadingStore from '../../../src/store';
 
 import useUserStore from './stores/user';
 import useMovieStore from './stores/movie';
